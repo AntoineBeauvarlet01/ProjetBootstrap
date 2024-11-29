@@ -59,6 +59,7 @@ listeGens.forEach((personne) => {
                     class="btn btn-sm btn-outline-dark view"
                     data-bs-toggle="modal"
 			        data-bs-target="#personneModal"
+					style="background-color: #5ee1f3"
                 >
                     View
                 </button>
@@ -67,6 +68,7 @@ listeGens.forEach((personne) => {
                     class="btn btn-sm btn-outline-dark edit"
                     data-bs-toggle="modal"
 			        data-bs-target="#personneModal"
+					style="background-color: #5ee1f3"
                 >
                     Edit
                 </button>
